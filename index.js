@@ -16,14 +16,12 @@ function divide(a,b) {
 
 function inc(n) {
   var a
-  parseInt(n) = a + 1
-  return n
+  console.log(a+1)
 }
 
 function dec(n) {
   var a
-  parseInt(n) = a - 1
-  return n
+  console.log(n-1)
 }
 
 function makeInt(n) {
