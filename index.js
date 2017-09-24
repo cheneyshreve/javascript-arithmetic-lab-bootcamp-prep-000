@@ -14,17 +14,19 @@ function divide(a,b) {
   return a / b
 }
 
-function inc(a,n) {
+function inc(n) {
   a += 1
   return a
 }
-console.log(a + n)
+console.log(n)
+inc(a)
 
 function dec(a,n) {
   a -= 1
   return a
 }
-console.log(a-n)
+dec(a)
+
 
 function makeInt(n) {
   return parseInt(n,10)
