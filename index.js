@@ -15,7 +15,7 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  var a 
+  var a
   console.log(n+a+1)
 }
 
