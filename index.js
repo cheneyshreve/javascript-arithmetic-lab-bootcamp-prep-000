@@ -16,12 +16,12 @@ function divide(a,b) {
 
 function inc(n) {
   var a
-  return a+1+n
+  return a+1 += n
 }
 
 function dec(n) {
   var a
-  return a-1-n
+  return a-1 -= n
 }
 
 function makeInt(n) {
