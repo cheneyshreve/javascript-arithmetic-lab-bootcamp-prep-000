@@ -16,11 +16,13 @@ function divide(a,b) {
 
 function inc(n) {
   var a
+  n = a
   console.log(a+1)
 }
 
 function dec(n) {
   var a
+  n = a
   console.log(a-1)
 }
 
