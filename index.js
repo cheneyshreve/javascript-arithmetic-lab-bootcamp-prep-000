@@ -14,18 +14,15 @@ function divide(a,b) {
   return a / b
 }
 
-function inc(n) {
+function inc(a,n) {
   a += 1
   return a
 }
-console.log(n)
-inc(a)
 
 function dec(a,n) {
   a -= 1
   return a
 }
-dec(a)
 
 
 function makeInt(n) {
