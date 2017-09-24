@@ -21,7 +21,7 @@ function inc(n) {
 
 function dec(n) {
   var a
-  console.log(a-1)
+  console.log(a-1-n)
 }
 
 function makeInt(n) {
