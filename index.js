@@ -16,13 +16,15 @@ function divide(a,b) {
 
 function inc(a,n) {
   a += 1
-  return a += n
+  return a
 }
+console.log(a + n)
 
 function dec(a,n) {
   a -= 1
-  return a -= n 
+  return a
 }
+console.log(a-n)
 
 function makeInt(n) {
   return parseInt(n,10)
