@@ -16,13 +16,13 @@ function divide(a,b) {
 
 function inc(n) {
   var a
-  n = a + 1
+  parseInt(n) = a + 1
   return n
 }
 
 function dec(n) {
   var a
-  n = a - 1
+  parseInt(n) = a - 1
   return n
 }
 
