@@ -16,6 +16,7 @@ function divide(a,b) {
 
 function inc(n) {
   var a
+  a = n
   console.log(n+1)
 }
 
